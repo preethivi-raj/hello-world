@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>This is one of the simple form.</h1>
+    <h1>This is one of the simple form. (03-03-2025)</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
